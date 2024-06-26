@@ -18,7 +18,7 @@ Dlib (with Python 3.11 compatible .whl file)
 NumPy
 
 ## Setup
-git clone https://github.com/yourusername/real-time-face-recognition.git
+git clone https://github.com/mrerros/Real-Time-Face-Recognition-Project-With-dLib-
 cd real-time-face-recognition
 
 ## Create and Activate a Virtual Environment (optional but recommended)
